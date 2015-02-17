@@ -1,3 +1,6 @@
+core = 7.x
+api = 2
+
 ; Specify default subdirectory for projects
 defaults[projects][subdir] = "contrib"
 
