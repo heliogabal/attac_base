@@ -3,7 +3,7 @@ defaults[projects][subdir] = "contrib"
 
 ; +++++ Modules +++++
 projects[addressfield][version] = 1.0
-projects[better_exposed_features][version] = 3.0
+projects[better_exposed_filters][version] = 3.0
 projects[fontyourface][version] = 2.8
 projects[addanother][version] = 2.2
 projects[adminimal_admin_menu][version] = 1.5
@@ -59,10 +59,18 @@ projects[og][version] = 2.7
 ; +++++ Themes +++++
 projects[attac][type] = "theme"
 projects[attac][download][type] = "git"
-projects[inkshop][download][url] = "https://github.com/heliogabal/attac.git"
+projects[attac][download][url] = "https://github.com/heliogabal/attac.git"
+projects[attac][download][branch] =
 
 projects[adminimal_theme][type] = "theme"
 projects[adminimal_theme][version] = "1.20"
+
+; +++++ Libraries +++++
+;Colorbox
+libraries[colorbox][download][type] = git
+libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox.git"
+libraries[colorbox][directory_name] = "colorbox"
+libraries[colorbox][destination] = "libraries"
 
 ; +++++ Translations +++++
 translations[] = de
