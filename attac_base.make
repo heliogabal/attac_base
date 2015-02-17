@@ -63,7 +63,6 @@ projects[og][version] = 2.7
 projects[attac][type] = "theme"
 projects[attac][download][type] = "git"
 projects[attac][download][url] = "https://github.com/heliogabal/attac.git"
-projects[attac][download][branch] =
 
 projects[adminimal_theme][type] = "theme"
 projects[adminimal_theme][version] = "1.20"
@@ -74,6 +73,9 @@ libraries[colorbox][download][type] = git
 libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox.git"
 libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][destination] = "libraries"
+
+; manualcrop
+includes[manualcrop] = http://cgit.drupalcode.org/manualcrop/tree/manualcrop.make
 
 ; +++++ Translations +++++
 translations[] = de
