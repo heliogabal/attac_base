@@ -56,8 +56,18 @@ projects[og][version] = 2.7
 
 ; +++++ Features +++++
 ;attac_gruppen
-;attac_kalender
+projects[attac_gruppen][type] = module
+projects[attac_gruppen][download][type] = "git"
+projects[attac_gruppen][download][url] = "https://github.com/heliogabal/attac_gruppen.git"
+projects[attac_gruppen][subdir] = "features"
+projects[attac_gruppen][options][working-copy] = TRUE
 
+;attac_kalender
+projects[attac_kalender][type] = module
+projects[attac_kalender][download][type] = "git"
+projects[attac_kalender][download][url] = "https://github.com/heliogabal/attac_kalender.git"
+projects[attac_kalender][subdir] = "features"
+projects[attac_kalender][options][working-copy] = TRUE
 
 ; +++++ Themes +++++
 projects[attac][type] = "theme"
@@ -66,6 +76,9 @@ projects[attac][download][url] = "https://github.com/heliogabal/attac.git"
 
 projects[adminimal_theme][type] = "theme"
 projects[adminimal_theme][version] = "1.20"
+
+projects[mothership][type] = "theme"
+projects[mothership][version] = "2.10"
 
 ; +++++ Libraries +++++
 ;Colorbox
