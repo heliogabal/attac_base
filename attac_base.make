@@ -14,22 +14,24 @@ projects[back_to_top][version] = 1.4
 projects[colorbox][version] = 2.8
 projects[compact_forms][version] = 1.0
 ;projects[conditional_fields][version] = 3.0-alpha1
-projects[content_menu][version] = 1.0
+
 projects[ds][version] = 2.7
 projects[ds_bootstrap_layouts][version] = 1.1
 projects[draggableviews][version] = 2.1
 projects[entityreference_prepopulate][version] = 1.5
+projects[field_group_link][version] = "1.3"
 projects[flag][version] = 3.6
 projects[fpa][version] = 2.6
 projects[icon][version] = 1.0-beta5
 projects[imagecache_actions][version] = 1.5
 projects[imagemagick][version] = 1.0
 projects[invisimail][version] = 1.2
+projects[l10n_update][version] = 2.0
 projects[linkit_target][version] = 1.0
 projects[manualcrop][version] = 1.4
 projects[prlp][version] = 1.0
 projects[references_dialog][version] = 1.0-beta1
-projects[responsive_menus][version] = 1.5
+projects[registration][version] = 1.3
 projects[rules][version] = 2.8
 projects[scheduler][version] = 1.3
 projects[transliteration][version] = 3.2
@@ -46,6 +48,7 @@ projects[leaflet_mapbox][version] = 1.2
 projects[fb_autopost][version] = 1.2
 projects[follow][version] = 2.0-alpha1
 projects[twitter][version] = 5.8
+projects[oauth][version] = 3.2
 
 ; Termine
 projects[calendar][version] = 3.5
@@ -53,6 +56,21 @@ projects[date_ical][version] = 3.3
 
 ; Gruppen
 projects[og][version] = 2.7
+projects[og_extras][version] = 1.1
+projects[og_menu_single][version] = 1.0-beta2
+
+; Suche
+projects[search_api][version] = "1.14"
+projects[search_api_db][version] = "1.4"
+projects[facetapi][version] = "1.5"
+
+; Menu
+projects[content_menu][version] = 1.0
+projects[dhtml_menu][version] = 1.0-beta
+projects[menu_rules][version] = 1.5
+projects[menu_token][version] = 1.0-beta1
+projects[responsive_menus][version] = 1.5
+projects[taxonomy_menu][version] = 1.5
 
 ; +++++ Features +++++
 ;attac_gruppen
@@ -73,12 +91,15 @@ projects[attac_kalender][options][working-copy] = TRUE
 projects[attac][type] = "theme"
 projects[attac][download][type] = "git"
 projects[attac][download][url] = "https://github.com/heliogabal/attac.git"
+projects[bear_attac][download][subdir] =
 
 projects[adminimal_theme][type] = "theme"
 projects[adminimal_theme][version] = "1.20"
+projects[bear_attac][download][subdir] =
 
 projects[mothership][type] = "theme"
 projects[mothership][version] = "2.10"
+projects[bear_attac][download][subdir] =
 
 ; +++++ Libraries +++++
 ;Colorbox
