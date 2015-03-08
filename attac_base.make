@@ -30,12 +30,14 @@ projects[l10n_update][version] = 2.0
 projects[linkit_target][version] = 1.0
 projects[manualcrop][version] = 1.4
 projects[prlp][version] = 1.0
+projects[profiler_builder][version] = 1.2
 projects[references_dialog][version] = 1.0-beta1
 projects[registration][version] = 1.3
 projects[rules][version] = 2.8
 projects[scheduler][version] = 1.3
 projects[transliteration][version] = 3.2
 projects[views_bootstrap][version] = 3.1
+projects[wysiwyg_template][version] = 2.11
 
 ; Map
 projects[geocoder][version] = 1.2
@@ -68,7 +70,7 @@ projects[facetapi][version] = "1.5"
 projects[content_menu][version] = 1.0
 projects[dhtml_menu][version] = 1.0-beta1
 projects[menu_rules][version] = 1.5
-projects[menu_token][version] = 1.0-beta1
+projects[menu_token][version] = 1.0-beta5
 projects[responsive_menus][version] = 1.5
 projects[taxonomy_menu][version] = 1.5
 
@@ -110,6 +112,12 @@ libraries[colorbox][destination] = "libraries"
 
 ; manualcrop
 includes[manualcrop] = http://cgit.drupalcode.org/manualcrop/tree/manualcrop.make
+
+; SolrPHPClient
+libraries[SolrPHPClient][download][type] = get
+libraries[SolrPHPClient][download][url] = https://solr-php-client.googlecode.com/files/SolrPhpClient.r60.2011-05-04.zip
+libraries[SolrPHPClient][directory_name] = "SolrPHPClient"
+libraries[SolrPHPClient][destination] = "libraries"
 
 ; +++++ Translations +++++
 translations[] = de
