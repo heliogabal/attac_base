@@ -66,7 +66,7 @@ projects[facetapi][version] = "1.5"
 
 ; Menu
 projects[content_menu][version] = 1.0
-projects[dhtml_menu][version] = 1.0-beta
+projects[dhtml_menu][version] = 1.0-beta1
 projects[menu_rules][version] = 1.5
 projects[menu_token][version] = 1.0-beta1
 projects[responsive_menus][version] = 1.5
