@@ -91,15 +91,15 @@ projects[attac_kalender][options][working-copy] = TRUE
 projects[attac][type] = "theme"
 projects[attac][download][type] = "git"
 projects[attac][download][url] = "https://github.com/heliogabal/attac.git"
-projects[bear_attac][download][subdir] = ""
+projects[attac][subdir] = ""
 
 projects[adminimal_theme][type] = "theme"
 projects[adminimal_theme][version] = "1.20"
-projects[bear_attac][download][subdir] = ""
+projects[adminimal_theme][subdir] = ""
 
 projects[mothership][type] = "theme"
 projects[mothership][version] = "2.10"
-projects[bear_attac][download][subdir] = ""
+projects[mothership][subdir] = ""
 
 ; +++++ Libraries +++++
 ;Colorbox
