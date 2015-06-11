@@ -5,8 +5,8 @@ api = 2
 defaults[projects][subdir] = "contrib"
 
 ; +++++ Modules +++++
-projects[addressfield][version] = 1.0
-projects[better_exposed_filters][version] = 3.0
+projects[addressfield][version] = 1.1
+projects[better_exposed_filters][version] = 3.2
 projects[fontyourface][version] = 2.8
 projects[addanother][version] = 2.2
 projects[adminimal_admin_menu][version] = 1.5
@@ -15,11 +15,13 @@ projects[colorbox][version] = 2.8
 projects[compact_forms][version] = 1.0
 ;projects[conditional_fields][version] = 3.0-alpha1
 
-projects[ds][version] = 2.7
+projects[ds][version] = 2.10
 projects[ds_bootstrap_layouts][version] = 1.1
 projects[draggableviews][version] = 2.1
 projects[entityreference_prepopulate][version] = 1.5
-projects[field_group_link][version] = "1.3"
+projects[entity_registration][version] = 1.4
+projects[facebook_autopost][version] = "1.4"
+projects[field_group_link][version] = "1.4"
 projects[flag][version] = 3.6
 projects[fpa][version] = 2.6
 projects[icon][version] = 1.0-beta5
@@ -29,11 +31,11 @@ projects[invisimail][version] = 1.2
 projects[l10n_update][version] = 2.0
 projects[linkit_target][version] = 1.0
 projects[manualcrop][version] = 1.4
-projects[prlp][version] = 1.0
+projects[prlp][version] = 1.1
 projects[profiler_builder][version] = 1.2
 projects[references_dialog][version] = 1.0-beta1
 projects[registration][version] = 1.3
-projects[rules][version] = 2.8
+projects[rules][version] = 2.9
 projects[scheduler][version] = 1.3
 projects[transliteration][version] = 3.2
 projects[views_bootstrap][version] = 3.1
@@ -54,15 +56,15 @@ projects[oauth][version] = 3.2
 
 ; Termine
 projects[calendar][version] = 3.5
-projects[date_ical][version] = 3.3
+projects[date_ical][version] = 3.4
 
 ; Gruppen
 projects[og][version] = 2.7
-projects[og_extras][version] = 1.1
+projects[og_extras][version] = 1.2
 projects[og_menu_single][version] = 1.0-beta2
 
 ; Suche
-projects[search_api][version] = "1.14"
+projects[search_api][version] = "1.15"
 projects[search_api_db][version] = "1.4"
 projects[facetapi][version] = "1.5"
 
@@ -96,7 +98,7 @@ projects[attac][download][url] = "https://github.com/heliogabal/attac.git"
 projects[attac][subdir] = ""
 
 projects[adminimal_theme][type] = "theme"
-projects[adminimal_theme][version] = "1.20"
+projects[adminimal_theme][version] = "1.21"
 projects[adminimal_theme][subdir] = ""
 
 projects[mothership][type] = "theme"
