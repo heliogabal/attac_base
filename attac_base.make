@@ -19,7 +19,6 @@ projects[ds][version] = 2.10
 projects[ds_bootstrap_layouts][version] = 1.1
 projects[draggableviews][version] = 2.1
 projects[entityreference_prepopulate][version] = 1.5
-projects[facebook_autopost][version] = "1.4"
 projects[field_group_link][version] = "1.4"
 projects[flag][version] = 3.6
 projects[fpa][version] = 2.6
@@ -48,7 +47,7 @@ projects[leaflet][version] = 1.1
 projects[leaflet_mapbox][version] = 1.2
 
 ; Social Media
-projects[fb_autopost][version] = 1.2
+projects[fb_autopost][version] = 1.4
 projects[follow][version] = 2.0-alpha1
 projects[twitter][version] = 5.8
 projects[oauth][version] = 3.2
