@@ -33,6 +33,7 @@ projects[prlp][version] = 1.1
 projects[profiler_builder][version] = 1.2
 projects[references_dialog][version] = 1.0-beta1
 projects[registration][version] = 1.5
+projects[registration][patch][] = "https://www.drupal.org/files/issues/registration_fatal_error_class-2546836-6.patch"
 projects[rules][version] = 2.9
 projects[scheduler][version] = 1.3
 projects[transliteration][version] = 3.2
