@@ -36,6 +36,7 @@ projects[registration][version] = 1.5
 projects[registration][patch][] = "https://www.drupal.org/files/issues/registration_fatal_error_class-2546836-6.patch"
 projects[rules][version] = 2.9
 projects[scheduler][version] = 1.3
+projects[simplify][version] = 3.3
 projects[transliteration][version] = 3.2
 projects[views_bootstrap][version] = 3.1
 projects[wysiwyg_template][version] = 2.11
