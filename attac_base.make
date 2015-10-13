@@ -32,6 +32,7 @@ projects[manualcrop][version] = 1.4
 projects[prlp][version] = 1.1
 projects[profiler_builder][version] = 1.2
 projects[references_dialog][version] = 1.0-beta1
+projects[references_dialog][patch][] = "https://www.drupal.org/files/issues/2375741-fixing_typo-1.patch"
 projects[registration][version] = 1.5
 projects[registration][patch][] = "https://www.drupal.org/files/issues/registration_fatal_error_class-2546836-6.patch"
 projects[rules][version] = 2.9
@@ -39,7 +40,7 @@ projects[scheduler][version] = 1.3
 projects[simplify][version] = 3.3
 projects[transliteration][version] = 3.2
 projects[views_bootstrap][version] = 3.1
-projects[wysiwyg_template][version] = 2.11
+;projects[wysiwyg_template][version] = 2.11
 
 ; Map
 projects[geocoder][version] = 1.2
@@ -52,8 +53,13 @@ projects[leaflet_mapbox][version] = 1.2
 projects[scald][version] = 1.4
 projects[scald_file][version] = 1.1
 projects[scald_youtube][version] = 1.5
+projects[scald_vimeo][version] = 1.4
 projects[scald_twitter][version] = 1.0-rc6
 projects[scald_flickr][version] = 1.2
+projects[scald_link_filter][version] = 1.x-dev
+projects[scald_block][version] = 1.0
+projects[scald_text][version] = 1.x-dev
+projects[qtip][version] = 2.x-dev
 
 ; Social Media
 projects[fb_autopost][version] = 1.4
