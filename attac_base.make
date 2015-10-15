@@ -6,6 +6,7 @@ defaults[projects][subdir] = "contrib"
 
 ; +++++ Modules +++++
 projects[addressfield][version] = 1.2
+projects[advanced_help][version] = 1.3
 projects[better_exposed_filters][version] = 3.2
 projects[bootstrap_library][version] = 1.4
 projects[fontyourface][version] = 2.8
@@ -41,7 +42,7 @@ projects[scheduler][version] = 1.3
 projects[simplify][version] = 3.3
 projects[transliteration][version] = 3.2
 projects[views_bootstrap][version] = 3.1
-;projects[wysiwyg_template][version] = 2.11
+projects[wysiwyg_template][version] = 2.11
 
 ; Map
 projects[geocoder][version] = 1.2
@@ -51,7 +52,7 @@ projects[leaflet][version] = 1.3
 projects[leaflet_mapbox][version] = 1.2
 
 ; Media
-projects[scald][version] = 1.4
+projects[scald][version] = 1.5
 projects[scald_file][version] = 1.2
 projects[scald_youtube][version] = 1.5
 projects[scald_vimeo][version] = 1.4
