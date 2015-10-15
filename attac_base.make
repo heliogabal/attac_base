@@ -7,13 +7,14 @@ defaults[projects][subdir] = "contrib"
 ; +++++ Modules +++++
 projects[addressfield][version] = 1.2
 projects[better_exposed_filters][version] = 3.2
+projects[bootstrap_library][version] = 1.4
 projects[fontyourface][version] = 2.8
 projects[addanother][version] = 2.2
 projects[adminimal_admin_menu][version] = 1.6
 projects[back_to_top][version] = 1.4
 projects[colorbox][version] = 2.10
 projects[compact_forms][version] = 1.0
-;projects[conditional_fields][version] = 3.0-alpha1
+projects[context][version] = 3.6
 
 projects[ds][version] = 2.11
 projects[ds_bootstrap_layouts][version] = 1.1
@@ -51,7 +52,7 @@ projects[leaflet_mapbox][version] = 1.2
 
 ; Media
 projects[scald][version] = 1.4
-projects[scald_file][version] = 1.1
+projects[scald_file][version] = 1.2
 projects[scald_youtube][version] = 1.5
 projects[scald_vimeo][version] = 1.4
 projects[scald_twitter][version] = 1.0-rc6
@@ -103,6 +104,13 @@ projects[attac_kalender][download][type] = "git"
 projects[attac_kalender][download][url] = "https://github.com/heliogabal/attac_kalender.git"
 projects[attac_kalender][subdir] = "features"
 projects[attac_kalender][options][working-copy] = TRUE
+
+;scald image box
+projects[scald_image_box][type] = module
+projects[scald_image_box][download][type] = "git"
+projects[scald_image_box][download][url] = "https://github.com/heliogabal/scald_image_box.git"
+projects[scald_image_box][subdir] = "custom"
+projects[scald_image_box][options][working-copy] = TRUE
 
 ; +++++ Themes +++++
 projects[attac][type] = "theme"
