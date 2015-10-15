@@ -5,13 +5,13 @@ api = 2
 defaults[projects][subdir] = "contrib"
 
 ; +++++ Modules +++++
-projects[addressfield][version] = 1.1
+projects[addressfield][version] = 1.2
 projects[better_exposed_filters][version] = 3.2
 projects[fontyourface][version] = 2.8
 projects[addanother][version] = 2.2
 projects[adminimal_admin_menu][version] = 1.6
 projects[back_to_top][version] = 1.4
-projects[colorbox][version] = 2.9
+projects[colorbox][version] = 2.10
 projects[compact_forms][version] = 1.0
 ;projects[conditional_fields][version] = 3.0-alpha1
 
@@ -20,7 +20,7 @@ projects[ds_bootstrap_layouts][version] = 1.1
 projects[draggableviews][version] = 2.1
 projects[entityreference_prepopulate][version] = 1.5
 projects[field_group_link][version] = "1.5"
-projects[flag][version] = 3.6
+projects[flag][version] = 3.7
 projects[fpa][version] = 2.6
 projects[icon][version] = 1.0-beta6
 projects[imagecache_actions][version] = 1.5
@@ -33,7 +33,7 @@ projects[prlp][version] = 1.1
 projects[profiler_builder][version] = 1.2
 projects[references_dialog][version] = 1.0-beta1
 projects[references_dialog][patch][] = "https://www.drupal.org/files/issues/2375741-fixing_typo-1.patch"
-projects[registration][version] = 1.5
+projects[registration][version] = 1.6
 projects[registration][patch][] = "https://www.drupal.org/files/issues/registration_fatal_error_class-2546836-6.patch"
 projects[rules][version] = 2.9
 projects[scheduler][version] = 1.3
@@ -46,7 +46,7 @@ projects[views_bootstrap][version] = 3.1
 projects[geocoder][version] = 1.2
 projects[geofield][version] = 2.3
 projects[geophp][version] = 1.7
-projects[leaflet][version] = 1.1
+projects[leaflet][version] = 1.3
 projects[leaflet_mapbox][version] = 1.2
 
 ; Media
@@ -64,7 +64,7 @@ projects[qtip][version] = 2.x-dev
 ; Social Media
 projects[fb_autopost][version] = 1.4
 projects[follow][version] = 2.0-alpha1
-projects[twitter][version] = 5.10
+projects[twitter][version] = 5.11
 projects[oauth][version] = 3.2
 
 ; Termine
