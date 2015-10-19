@@ -60,6 +60,7 @@ projects[scald_twitter][version] = 1.0-rc6
 projects[scald_flickr][version] = 1.2
 projects[scald_link_filter][version] = 1.x-dev
 projects[scald_block][version] = 1.0
+projects[scald_block][patch][] = "https://www.drupal.org/files/issues/don_t_work_with-2447505-2.patch"
 projects[scald_text][version] = 1.x-dev
 projects[qtip][version] = 2.x-dev
 
@@ -120,7 +121,7 @@ projects[attac][download][url] = "https://github.com/heliogabal/attac.git"
 projects[attac][subdir] = ""
 
 projects[adminimal_theme][type] = "theme"
-projects[adminimal_theme][version] = "1.22"
+projects[adminimal_theme][version] = "1.23"
 projects[adminimal_theme][subdir] = ""
 
 projects[mothership][type] = "theme"
