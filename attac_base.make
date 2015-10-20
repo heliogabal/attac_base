@@ -159,6 +159,13 @@ libraries[leaflet][destination] = "libraries"
 libraries[leaflet][download][type] = "get"
 libraries[leaflet][download][url] = "https://github.com/Leaflet/Leaflet/archive/v0.7.5.zip"
 
+; facebook-php-sdk
+libraries[facebook-php-sdk][directory_name] = "facebook-php-sdk"
+libraries[facebook-php-sdk][type] = "library"
+libraries[facebook-php-sdk][destination] = "libraries"
+libraries[facebook-php-sdk][download][type] = "get"
+libraries[facebook-php-sdk][download][url] = "https://github.com/facebookarchive/facebook-php-sdk/archive/v3.2.3.zip"
+
 ; twitter
 
 
