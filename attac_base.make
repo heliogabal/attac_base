@@ -7,6 +7,7 @@ defaults[projects][subdir] = "contrib"
 ; +++++ Modules +++++
 projects[addressfield][version] = 1.2
 projects[advanced_help][version] = 1.3
+projects[autocomplete_deluxe][version] = 2.1
 projects[better_exposed_filters][version] = 3.2
 projects[bootstrap_library][version] = 1.4
 projects[fontyourface][version] = 2.8
