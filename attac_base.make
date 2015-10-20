@@ -29,6 +29,7 @@ projects[icon][version] = 1.0-beta6
 projects[imagecache_actions][version] = 1.5
 projects[imagemagick][version] = 1.0
 projects[invisimail][version] = 1.2
+projects[killfile][version] = 1.5
 projects[l10n_update][version] = 2.0
 projects[linkit_target][version] = 1.0
 projects[manualcrop][version] = 1.4
@@ -165,9 +166,6 @@ libraries[facebook-php-sdk][type] = "library"
 libraries[facebook-php-sdk][destination] = "libraries"
 libraries[facebook-php-sdk][download][type] = "get"
 libraries[facebook-php-sdk][download][url] = "https://github.com/facebookarchive/facebook-php-sdk/archive/v3.2.3.zip"
-
-; twitter
-
 
 ; +++++ Translations +++++
 translations[] = de
