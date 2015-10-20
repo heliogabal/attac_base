@@ -114,11 +114,18 @@ projects[scald_image_box][download][url] = "https://github.com/heliogabal/scald_
 projects[scald_image_box][subdir] = "custom"
 projects[scald_image_box][options][working-copy] = TRUE
 
+; hide_sticky_promote
+projects[hide_sticky_promote][type] = module
+projects[hide_sticky_promote][download][type] = "git"
+projects[hide_sticky_promote][download][url] = "http://git.drupal.org/sandbox/studiozut/2303677.git"
+projects[hide_sticky_promote][subdir] = "custom"
+
 ; +++++ Themes +++++
 projects[attac][type] = "theme"
 projects[attac][download][type] = "git"
 projects[attac][download][url] = "https://github.com/heliogabal/attac.git"
 projects[attac][subdir] = ""
+projects[attac][options][working-copy] = TRUE
 
 projects[adminimal_theme][type] = "theme"
 projects[adminimal_theme][version] = "1.23"
