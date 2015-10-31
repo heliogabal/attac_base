@@ -30,6 +30,7 @@ projects[imagecache_actions][version] = 1.5
 projects[imagemagick][version] = 1.0
 projects[invisimail][version] = 1.2
 projects[killfile][version] = 1.5
+projects[cf][version] = 2.1
 projects[l10n_update][version] = 2.0
 projects[linkit_target][version] = 1.0
 projects[manualcrop][version] = 1.4
@@ -54,7 +55,7 @@ projects[leaflet][version] = 1.3
 projects[leaflet_mapbox][version] = 1.2
 
 ; Media
-projects[scald][version] = 1.5
+projects[scald][version] = 1.6
 projects[scald_file][version] = 1.2
 projects[scald_youtube][version] = 1.5
 projects[scald_vimeo][version] = 1.4
