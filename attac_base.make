@@ -38,7 +38,7 @@ projects[profiler_builder][version] = 1.2
 projects[references_dialog][version] = 1.0-beta1
 projects[references_dialog][patch][] = "https://www.drupal.org/files/issues/2375741-fixing_typo-1.patch"
 projects[registration][version] = 1.6
-projects[registration][patch][] = "https://www.drupal.org/files/issues/registration_fatal_error_class-2546836-6.patch"
+;projects[registration][patch][] = "https://www.drupal.org/files/issues/registration_fatal_error_class-2546836-6.patch"
 projects[rules][version] = 2.9
 projects[scheduler][version] = 1.3
 projects[simplify][version] = 3.3
@@ -61,8 +61,14 @@ projects[scald_vimeo][version] = 1.4
 projects[scald_twitter][version] = 1.0-rc6
 projects[scald_flickr][version] = 1.2
 projects[scald_link_filter][version] = 1.x-dev
-projects[scald_block][version] = 1.0
-projects[scald_block][patch][] = "https://www.drupal.org/files/issues/don_t_work_with-2447505-2.patch"
+;projects[scald_block][version] = 1.0
+;projects[scald_block][patch][] = "https://www.drupal.org/files/issues/don_t_work_with-2447505-2.patch"
+
+projects[bean_scald][type] = "module"
+projects[bean_scald][download][type] = "git"
+projects[bean_scald][download][url] = "http://git.drupal.org/sandbox/discipolo/1999594.git"
+projects[bean_scald][subdir] = "custom"
+
 projects[scald_text][version] = 1.x-dev
 projects[qtip][version] = 2.x-dev
 
