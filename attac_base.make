@@ -82,6 +82,9 @@ projects[oauth][version] = 3.2
 ; Termine
 projects[calendar][version] = 3.5
 projects[date_ical][version] = 3.5
+projects[date_repeat_entity][version] = 2.0
+projects[uuid][version] = 1.0-beta1
+projects[replicate][version] = 1.1
 
 ; Gruppen
 projects[og][version] = 2.7
