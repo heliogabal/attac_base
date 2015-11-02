@@ -168,7 +168,7 @@ libraries[leaflet][directory_name] = "leaflet"
 libraries[leaflet][type] = "library"
 libraries[leaflet][destination] = "libraries"
 libraries[leaflet][download][type] = "get"
-libraries[leaflet][download][url] = "https://github.com/Leaflet/Leaflet/archive/v0.7.5.zip"
+libraries[leaflet][download][url] = "https://github.com/Leaflet/Leaflet/archive/v0.7.7.zip"
 
 ; facebook-php-sdk
 libraries[facebook-php-sdk][directory_name] = "facebook-php-sdk"
