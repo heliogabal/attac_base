@@ -169,8 +169,10 @@ libraries[SolrPHPClient][destination] = "libraries"
 libraries[leaflet][directory_name] = "leaflet"
 libraries[leaflet][type] = "library"
 libraries[leaflet][destination] = "libraries"
-libraries[leaflet][download][type] = "get"
-libraries[leaflet][download][url] = "https://github.com/Leaflet/Leaflet/archive/v0.7.7.zip"
+;libraries[leaflet][download][type] = "get"
+;libraries[leaflet][download][url] = "https://github.com/Leaflet/Leaflet/archive/v0.7.7.zip"
+libraries[leaflet][download][type] = "file"
+libraries[leaflet][download][url] = "http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.zip"
 
 ; facebook-php-sdk
 libraries[facebook-php-sdk][directory_name] = "facebook-php-sdk"
