@@ -121,6 +121,13 @@ projects[attac_kalender][download][url] = "https://github.com/heliogabal/attac_k
 projects[attac_kalender][subdir] = "features"
 projects[attac_kalender][options][working-copy] = TRUE
 
+;attac_admin
+projects[attac_admin][type] = module
+projects[attac_admin][download][type] = "git"
+projects[attac_admin][download][url] = "https://github.com/heliogabal/attac_admin.git"
+projects[attac_admin][subdir] = "features"
+projects[attac_admin][options][working-copy] = TRUE
+
 ;scald image box
 projects[scald_image_box][type] = module
 projects[scald_image_box][download][type] = "git"
