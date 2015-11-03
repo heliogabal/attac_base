@@ -70,6 +70,8 @@ projects[bean_scald][download][type] = "git"
 projects[bean_scald][download][url] = "http://git.drupal.org/sandbox/discipolo/1999594.git"
 projects[bean_scald][subdir] = "custom"
 
+projects[bean][version] = 1.9
+
 projects[scald_text][version] = 1.x-dev
 projects[qtip][version] = 2.x-dev
 
