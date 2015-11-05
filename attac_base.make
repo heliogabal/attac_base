@@ -27,6 +27,7 @@ projects[field_group_link][version] = "1.5"
 projects[flag][version] = 3.7
 projects[fpa][version] = 2.6
 projects[globalredirect][version] = 1.5
+projects[honeypot][version] = 1.21
 projects[icon][version] = 1.0-beta6
 projects[imagecache_actions][version] = 1.5
 projects[imagemagick][version] = 1.0
