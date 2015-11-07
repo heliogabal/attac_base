@@ -46,6 +46,7 @@ projects[registration][version] = 1.6
 projects[rules][version] = 2.9
 projects[scheduler][version] = 1.3
 projects[simplify][version] = 3.3
+projects[token_tweaks][version] = 1.x-dev
 projects[transliteration][version] = 3.2
 projects[views_bootstrap][version] = 3.1
 projects[wysiwyg_template][version] = 2.11
