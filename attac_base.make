@@ -37,6 +37,7 @@ projects[cf][version] = 2.1
 projects[l10n_update][version] = 2.0
 projects[linkit_target][version] = 1.0
 projects[manualcrop][version] = 1.4
+projects[metatag][version] = 1.7
 projects[prlp][version] = 1.1
 projects[profiler_builder][version] = 1.2
 projects[references_dialog][version] = 1.0-beta1
