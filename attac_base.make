@@ -15,6 +15,8 @@ projects[addanother][version] = 2.2
 projects[adminimal_admin_menu][version] = 1.6
 projects[back_to_top][version] = 1.4
 projects[colorbox][version] = 2.10
+projects[colorbox_field_formatter][version] = 1.x-dev
+vprojects[colorbox_node][version] = 3.5
 projects[compact_forms][version] = 1.0
 projects[context][version] = 3.6
 
