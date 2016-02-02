@@ -70,6 +70,7 @@ projects[scald_twitter][version] = 1.0-rc6
 projects[scald_flickr][version] = 1.2
 ;projects[scald_instagram][version] = 1.0
 projects[scald_link_filter][version] = 1.x-dev
+projects[scald_gallery][version] = 2.5
 ;projects[scald_block][version] = 1.0
 ;projects[scald_block][patch][] = "https://www.drupal.org/files/issues/don_t_work_with-2447505-2.patch"
 
@@ -197,6 +198,13 @@ libraries[facebook-php-sdk][type] = "library"
 libraries[facebook-php-sdk][destination] = "libraries"
 libraries[facebook-php-sdk][download][type] = "get"
 libraries[facebook-php-sdk][download][url] = "https://github.com/facebookarchive/facebook-php-sdk/archive/v3.2.3.zip"
+
+; Galleria
+libraries[galleria][directory_name] = "galleria"
+libraries[galleria][type] = "library"
+libraries[galleria][destination] = "libraries"
+libraries[galleria][download][type] = "get"
+libraries[galleria][download][url] = "http://galleria.io/static/galleria-1.4.2.zip"
 
 ; +++++ Translations +++++
 translations[] = de
