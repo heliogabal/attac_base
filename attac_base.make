@@ -176,7 +176,7 @@ libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][destination] = "libraries"
 
 ; manualcrop
-includes[manualcrop] = http://cgit.drupalcode.org/manualcrop/tree/manualcrop.make.example
+;includes[manualcrop] = http://cgit.drupalcode.org/manualcrop/tree/manualcrop.make.example
 
 ; SolrPHPClient
 libraries[SolrPHPClient][download][type] = get
@@ -206,6 +206,16 @@ libraries[galleria][type] = "library"
 libraries[galleria][destination] = "libraries"
 libraries[galleria][download][type] = "get"
 libraries[galleria][download][url] = "http://galleria.io/static/galleria-1.4.2.zip"
+
+; imagesLoaded.
+libraries[jquery.imagesloaded][download][type] = file
+libraries[jquery.imagesloaded][download][url] = https://github.com/desandro/imagesloaded/archive/v2.1.2.tar.gz
+libraries[jquery.imagesloaded][download][subtree] = imagesloaded-2.1.2
+
+; imgAreaSelect.
+libraries[jquery.imgareaselect][download][type] = file
+libraries[jquery.imgareaselect][download][url] = https://github.com/odyniec/imgareaselect/archive/v0.9.11-rc.1.tar.gz
+libraries[jquery.imgareaselect][download][subtree] = imgareaselect-0.9.11-rc.1
 
 ; +++++ Translations +++++
 translations[] = de
