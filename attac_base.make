@@ -16,7 +16,7 @@ projects[adminimal_admin_menu][version] = 1.7
 projects[back_to_top][version] = 1.5
 projects[colorbox][version] = 2.10
 projects[colorbox_field_formatter][version] = 1.2
-vprojects[colorbox_node][version] = 3.5
+projects[colorbox_node][version] = 3.5
 projects[compact_forms][version] = 1.0
 projects[context][version] = 3.6
 
@@ -54,6 +54,8 @@ projects[transliteration][version] = 3.2
 projects[views_bootstrap][version] = 3.1
 projects[wysiwyg_template][version] = 2.11
 projects[smtp][version] = 1.3
+projects[recaptcha][version] = 2.0
+projects[querypath][version] = 2.1
 
 ; Map
 projects[geocoder][version] = 1.3
