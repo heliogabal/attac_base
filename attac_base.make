@@ -176,7 +176,7 @@ libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][destination] = "libraries"
 
 ; manualcrop
-includes[manualcrop] = http://cgit.drupalcode.org/manualcrop/tree/manualcrop.make
+includes[manualcrop] = http://cgit.drupalcode.org/manualcrop/tree/manualcrop.make.example
 
 ; SolrPHPClient
 libraries[SolrPHPClient][download][type] = get
