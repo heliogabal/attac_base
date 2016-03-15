@@ -29,7 +29,7 @@ projects[field_group_link][version] = "1.5"
 projects[flag][version] = 3.7
 projects[fpa][version] = 2.6
 projects[globalredirect][version] = 1.5
-projects[honeypot][version] = 1.21
+projects[honeypot][version] = 1.22
 projects[icon][version] = 1.0-beta6
 projects[imagecache_actions][version] = 1.7
 projects[imagemagick][version] = 1.0
@@ -47,7 +47,7 @@ projects[references_dialog][patch][] = "https://www.drupal.org/files/issues/2375
 projects[registration][version] = 1.6
 ;projects[registration][patch][] = "https://www.drupal.org/files/issues/registration_fatal_error_class-2546836-6.patch"
 projects[rules][version] = 2.9
-projects[scheduler][version] = 1.3
+projects[scheduler][version] = 1.4
 projects[simplify][version] = 3.3
 projects[token_tweaks][version] = 1.x-dev
 projects[transliteration][version] = 3.2
@@ -62,11 +62,11 @@ projects[geocoder][version] = 1.3
 projects[geofield][version] = 2.3
 projects[geophp][version] = 1.7
 projects[leaflet][version] = 1.3
-projects[leaflet_mapbox][version] = 1.3
+projects[leaflet_mapbox][version] = 1.5
 
 ; Media
 projects[scald][version] = 1.6
-projects[scald_file][version] = 1.2
+projects[scald_file][version] = 1.3
 projects[scald_youtube][version] = 1.5
 projects[scald_vimeo][version] = 1.4
 projects[scald_twitter][version] = 1.0-rc6
@@ -108,9 +108,9 @@ projects[og_extras][version] = 1.2
 projects[og_menu_single][version] = 1.0-beta2
 
 ; Suche
-projects[search_api][version] = "1.16"
-projects[search_api_db][version] = "1.5"
-projects[facetapi][version] = "1.5"
+projects[search_api][version] = 1.17
+projects[search_api_db][version] = 1.5
+projects[facetapi][version] = 1.5
 
 ; Menu
 projects[content_menu][version] = 1.0
