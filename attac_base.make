@@ -54,6 +54,7 @@ projects[transliteration][version] = 3.2
 projects[views_bootstrap][version] = 3.1
 projects[wysiwyg_template][version] = 2.11
 projects[smtp][version] = 1.3
+projects[captcha][version] = 1.3
 projects[recaptcha][version] = 2.0
 projects[querypath][version] = 2.1
 
