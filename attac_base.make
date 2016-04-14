@@ -39,7 +39,7 @@ projects[cf][version] = 2.1
 projects[l10n_update][version] = 2.0
 projects[linkit_target][version] = 1.0
 projects[manualcrop][version] = 1.4
-projects[metatag][version] = 1.13
+projects[metatag][version] = 1.14
 projects[prlp][version] = 1.1
 projects[profiler_builder][version] = 1.2
 projects[references_dialog][version] = 1.0-beta1
@@ -67,7 +67,7 @@ projects[leaflet][version] = 1.3
 projects[leaflet_mapbox][version] = 1.5
 
 ; Media
-projects[scald][version] = 1.6
+projects[scald][version] = 1.7
 projects[scald_file][version] = 1.3
 projects[scald_youtube][version] = 1.5
 projects[scald_vimeo][version] = 1.4
