@@ -58,6 +58,7 @@ projects[smtp][version] = 1.3
 projects[captcha][version] = 1.3
 projects[recaptcha][version] = 2.0
 projects[querypath][version] = 2.1
+projects[view_unpublished][version] = 1.2
 
 ; Map
 projects[geocoder][version] = 1.3
