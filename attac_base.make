@@ -14,7 +14,7 @@ projects[fontyourface][version] = 2.8
 projects[addanother][version] = 2.2
 projects[adminimal_admin_menu][version] = 1.7
 projects[back_to_top][version] = 1.5
-projects[colorbox][version] = 2.10
+projects[colorbox][version] = 2.12
 projects[colorbox_field_formatter][version] = 1.2
 projects[colorbox_node][version] = 3.5
 projects[compact_forms][version] = 1.0
@@ -39,11 +39,11 @@ projects[cf][version] = 2.1
 projects[l10n_update][version] = 2.0
 projects[linkit_target][version] = 1.0
 projects[manualcrop][version] = 1.4
-projects[metatag][version] = 1.14
-projects[prlp][version] = 1.1
+projects[metatag][version] = 1.17
+projects[prlp][version] = 1.3
 projects[profiler_builder][version] = 1.2
-projects[references_dialog][version] = 1.0-beta1
-projects[references_dialog][patch][] = "https://www.drupal.org/files/issues/2375741-fixing_typo-1.patch"
+projects[references_dialog][version] = 1.0-beta2
+;projects[references_dialog][patch][] = "https://www.drupal.org/files/issues/2375741-fixing_typo-1.patch"
 projects[registration][version] = 1.6
 ;projects[registration][patch][] = "https://www.drupal.org/files/issues/registration_fatal_error_class-2546836-6.patch"
 projects[rules][version] = 2.9
@@ -88,7 +88,7 @@ projects[bean_scald][subdir] = "custom"
 projects[bean][version] = 1.9
 
 projects[scald_text][version] = 1.x-dev
-projects[qtip][version] = 2.x-dev
+projects[qtip][version] = 2.0-rc4
 
 ; Social Media
 projects[fb_autopost][version] = 1.4
@@ -111,7 +111,7 @@ projects[og_extras][version] = 1.2
 projects[og_menu_single][version] = 1.0-beta2
 
 ; Suche
-projects[search_api][version] = 1.18
+projects[search_api][version] = 1.19
 projects[search_api_db][version] = 1.5
 projects[facetapi][version] = 1.5
 
