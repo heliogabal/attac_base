@@ -26,7 +26,7 @@ projects[draggableviews][version] = 2.1
 projects[entityreference_prepopulate][version] = 1.6
 projects[fast_404][version] = 1.5
 projects[field_group_link][version] = "1.5"
-projects[flag][version] = 3.7
+projects[flag][version] = 3.9
 projects[fpa][version] = 2.6
 projects[globalredirect][version] = 1.5
 projects[honeypot][version] = 1.22
@@ -86,7 +86,7 @@ projects[bean_scald][download][type] = "git"
 projects[bean_scald][download][url] = "http://git.drupal.org/sandbox/discipolo/1999594.git"
 projects[bean_scald][subdir] = "custom"
 
-projects[bean][version] = 1.9
+projects[bean][version] = 1.11
 
 projects[scald_text][version] = 1.x-dev
 projects[qtip][version] = 2.0-rc4
