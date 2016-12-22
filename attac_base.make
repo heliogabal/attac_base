@@ -30,7 +30,7 @@ projects[flag][version] = 3.9
 projects[fpa][version] = 2.6
 projects[globalredirect][version] = 1.5
 projects[honeypot][version] = 1.22
-projects[icon][version] = 1.0-beta6
+projects[icon][version] = 1.0-rc1
 projects[imagecache_actions][version] = 1.7
 projects[imagemagick][version] = 1.0
 projects[invisimail][version] = 1.2
@@ -39,7 +39,7 @@ projects[cf][version] = 2.1
 projects[l10n_update][version] = 2.0
 projects[linkit_target][version] = 1.0
 projects[manualcrop][version] = 1.4
-projects[metatag][version] = 1.17
+projects[metatag][version] = 1.18
 projects[prlp][version] = 1.3
 projects[profiler_builder][version] = 1.2
 projects[references_dialog][version] = 1.0-beta2
@@ -47,7 +47,7 @@ projects[references_dialog][version] = 1.0-beta2
 projects[registration][version] = 1.6
 ;projects[registration][patch][] = "https://www.drupal.org/files/issues/registration_fatal_error_class-2546836-6.patch"
 projects[rules][version] = 2.9
-projects[scheduler][version] = 1.4
+projects[scheduler][version] = 1.5
 projects[simplify][version] = 3.3
 projects[rel][version] = 1.0-beta2
 projects[token_tweaks][version] = 1.x-dev
@@ -77,7 +77,7 @@ projects[scald_twitter][version] = 1.0-rc6
 projects[scald_flickr][version] = 1.2
 ;projects[scald_instagram][version] = 1.0
 projects[scald_link_filter][version] = 1.x-dev
-projects[scald_gallery][version] = 2.5
+projects[scald_gallery][version] = 2.6
 ;projects[scald_block][version] = 1.0
 ;projects[scald_block][patch][] = "https://www.drupal.org/files/issues/don_t_work_with-2447505-2.patch"
 
@@ -103,7 +103,7 @@ projects[date_ical][version] = 3.9
 projects[date_repeat_entity][version] = 2.0
 ; Bug creating duplicates: https://www.drupal.org/node/2553007
 projects[date_repeat_entity][patch][] = "https://www.drupal.org/files/issues/update_time_duplicates-2553007-3.patch"
-projects[uuid][version] = 1.0-beta1
+projects[uuid][version] = 1.0-beta2
 projects[replicate][version] = 1.1
 
 ; Gruppen
@@ -112,7 +112,7 @@ projects[og_extras][version] = 1.2
 projects[og_menu_single][version] = 1.0-beta2
 
 ; Suche
-projects[search_api][version] = 1.19
+projects[search_api][version] = 1.20
 projects[search_api_db][version] = 1.5
 projects[facetapi][version] = 1.5
 
