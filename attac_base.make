@@ -186,7 +186,7 @@ libraries[colorbox][destination] = "libraries"
 
 ; SolrPHPClient
 libraries[SolrPHPClient][download][type] = get
-libraries[SolrPHPClient][download][url] = https://solr-php-client.googlecode.com/files/SolrPhpClient.r60.2011-05-04.zip
+libraries[SolrPHPClient][download][url] = https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/solr-php-client/SolrPhpClient.r60.2011-05-04.zip
 libraries[SolrPHPClient][directory_name] = "SolrPHPClient"
 libraries[SolrPHPClient][destination] = "libraries"
 
