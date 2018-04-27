@@ -20,10 +20,10 @@ projects[colorbox_node][version] = 3.5
 projects[compact_forms][version] = 1.0
 projects[context][version] = 3.7
 
-projects[ds][version] = 2.14
+projects[ds][version] = 2.15
 projects[ds_bootstrap_layouts][version] = 1.1
 projects[draggableviews][version] = 2.1
-projects[entityreference_prepopulate][version] = 1.6
+projects[entityreference_prepopulate][version] = 1.7
 projects[fast_404][version] = 1.5
 projects[field_group_link][version] = "1.5"
 projects[flag][version] = 3.9
@@ -31,15 +31,15 @@ projects[fpa][version] = 2.6
 projects[globalredirect][version] = 1.5
 projects[honeypot][version] = 1.22
 projects[icon][version] = 1.0-rc1
-projects[imagecache_actions][version] = 1.7
+projects[imagecache_actions][version] = 1.9
 projects[imagemagick][version] = 1.0
 projects[invisimail][version] = 1.2
 projects[killfile][version] = 1.5
 projects[cf][version] = 2.1
-projects[l10n_update][version] = 2.0
+projects[l10n_update][version] = 2.2
 projects[linkit_target][version] = 1.0
 projects[manualcrop][version] = 1.4
-projects[metatag][version] = 1.22
+projects[metatag][version] = 1.25
 projects[prlp][version] = 1.3
 projects[profiler_builder][version] = 1.2
 projects[references_dialog][version] = 1.0-beta2
@@ -52,7 +52,7 @@ projects[simplify][version] = 3.3
 ;projects[rel][version] = 1.0-beta2
 projects[token_tweaks][version] = 1.x-dev
 projects[transliteration][version] = 3.2
-projects[views_bootstrap][version] = 3.1
+projects[views_bootstrap][version] = 3.2
 projects[views_merge_rows][version] = 1.0-rc1
 projects[wysiwyg_template][version] = 2.11
 projects[smtp][version] = 1.7
@@ -65,19 +65,19 @@ projects[view_unpublished][version] = 1.2
 projects[geocoder][version] = 1.3
 projects[geofield][version] = 2.3
 projects[geophp][version] = 1.7
-projects[leaflet][version] = 1.3
+projects[leaflet][version] = 1.4
 projects[leaflet_mapbox][version] = 1.5
 
 ; Media
-projects[scald][version] = 1.8
-projects[scald_file][version] = 1.3
-projects[scald_youtube][version] = 1.5
-projects[scald_vimeo][version] = 1.4
-projects[scald_twitter][version] = 1.0-rc6
+projects[scald][version] = 1.10
+projects[scald_file][version] = 1.4
+projects[scald_youtube][version] = 1.6
+projects[scald_vimeo][version] = 1.5
+projects[scald_twitter][version] = 1.0
 projects[scald_flickr][version] = 1.2
 ;projects[scald_instagram][version] = 1.0
 projects[scald_link_filter][version] = 1.x-dev
-projects[scald_gallery][version] = 2.6
+projects[scald_gallery][version] = 2.7
 ;projects[scald_block][version] = 1.0
 ;projects[scald_block][patch][] = "https://www.drupal.org/files/issues/don_t_work_with-2447505-2.patch"
 
@@ -112,8 +112,8 @@ projects[og_extras][version] = 1.2
 projects[og_menu_single][version] = 1.0-beta2
 
 ; Suche
-projects[search_api][version] = 1.20
-projects[search_api_db][version] = 1.5
+projects[search_api][version] = 1.24
+projects[search_api_db][version] = 1.6
 projects[facetapi][version] = 1.5
 
 ; Menu
@@ -121,7 +121,7 @@ projects[content_menu][version] = 1.0
 ;projects[dhtml_menu][version] = 1.0-beta1
 ;projects[menu_rules][version] = 1.5
 ;projects[menu_token][version] = 1.0-beta5
-projects[responsive_menus][version] = 1.5
+projects[responsive_menus][version] = 1.6
 projects[taxonomy_menu][version] = 1.5
 
 ; +++++ Features +++++
