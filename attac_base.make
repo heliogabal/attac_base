@@ -14,8 +14,8 @@ projects[fontyourface][version] = 2.8
 projects[addanother][version] = 2.2
 projects[adminimal_admin_menu][version] = 1.7
 projects[back_to_top][version] = 1.5
-projects[colorbox][version] = 2.12
-projects[colorbox_field_formatter][version] = 1.2
+projects[colorbox][version] = 2.13
+projects[colorbox_field_formatter][version] = 1.4
 projects[colorbox_node][version] = 3.5
 projects[compact_forms][version] = 1.0
 projects[context][version] = 3.7
@@ -28,9 +28,9 @@ projects[fast_404][version] = 1.5
 projects[field_group_link][version] = "1.5"
 projects[flag][version] = 3.9
 projects[fpa][version] = 2.6
-projects[globalredirect][version] = 1.5
-projects[honeypot][version] = 1.22
-projects[icon][version] = 1.0-rc1
+projects[globalredirect][version] = 1.6
+projects[honeypot][version] = 1.24
+projects[icon][version] = 1.0
 projects[imagecache_actions][version] = 1.9
 projects[imagemagick][version] = 1.0
 projects[invisimail][version] = 1.2
@@ -46,9 +46,9 @@ projects[references_dialog][version] = 1.0-beta2
 ;projects[references_dialog][patch][] = "https://www.drupal.org/files/issues/2375741-fixing_typo-1.patch"
 projects[registration][version] = 1.6
 ;projects[registration][patch][] = "https://www.drupal.org/files/issues/registration_fatal_error_class-2546836-6.patch"
-projects[rules][version] = 2.9
+projects[rules][version] = 2.10
 projects[scheduler][version] = 1.5
-projects[simplify][version] = 3.3
+projects[simplify][version] = 3.4
 ;projects[rel][version] = 1.0-beta2
 projects[token_tweaks][version] = 1.x-dev
 projects[transliteration][version] = 3.2
@@ -89,7 +89,7 @@ projects[bean_scald][subdir] = "custom"
 projects[bean][version] = 1.11
 
 projects[scald_text][version] = 1.x-dev
-projects[qtip][version] = 2.0-rc4
+projects[qtip][version] = 2.0
 
 ; Social Media
 projects[fb_autopost][version] = 1.4
@@ -103,8 +103,8 @@ projects[date_ical][version] = 3.9
 projects[date_repeat_entity][version] = 2.0
 ; Bug creating duplicates: https://www.drupal.org/node/2553007
 projects[date_repeat_entity][patch][] = "https://www.drupal.org/files/issues/update_time_duplicates-2553007-3.patch"
-projects[uuid][version] = 1.0-beta2
-projects[replicate][version] = 1.1
+projects[uuid][version] = 1.0
+projects[replicate][version] = 1.2
 
 ; Gruppen
 projects[og][version] = 2.9
