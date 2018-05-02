@@ -90,6 +90,7 @@ projects[bean][version] = 1.11
 
 projects[scald_text][version] = 1.x-dev
 projects[qtip][version] = 2.0
+projects[qtip][patch][] = https://www.drupal.org/files/issues/2870656-2.patch
 
 ; Social Media
 projects[fb_autopost][version] = 1.4
