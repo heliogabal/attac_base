@@ -104,7 +104,7 @@ projects[date_ical][version] = 3.9
 projects[date_repeat_entity][version] = 2.0
 ; Bug creating duplicates: https://www.drupal.org/node/2553007
 projects[date_repeat_entity][patch][] = "https://www.drupal.org/files/issues/update_time_duplicates-2553007-3.patch"
-projects[uuid][version] = 1.0
+projects[uuid][version] = 1.2
 projects[replicate][version] = 1.2
 
 ; Gruppen
