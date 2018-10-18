@@ -8,7 +8,7 @@ defaults[projects][subdir] = "contrib"
 projects[addressfield][version] = 1.2
 projects[advanced_help][version] = 1.3
 projects[autocomplete_deluxe][version] = 2.3
-projects[better_exposed_filters][version] = 3.5
+projects[better_exposed_filters][version] = 3.6
 projects[bootstrap_library][version] = 1.4
 projects[fontyourface][version] = 2.8
 projects[addanother][version] = 2.2
@@ -20,7 +20,7 @@ projects[colorbox_node][version] = 3.5
 projects[compact_forms][version] = 1.0
 projects[context][version] = 3.7
 
-projects[ds][version] = 2.15
+projects[ds][version] = 2.16
 projects[ds_bootstrap_layouts][version] = 1.1
 projects[draggableviews][version] = 2.1
 projects[entityreference_prepopulate][version] = 1.7
@@ -29,7 +29,7 @@ projects[field_group_link][version] = "1.5"
 projects[flag][version] = 3.9
 projects[fpa][version] = 2.6
 projects[globalredirect][version] = 1.6
-projects[honeypot][version] = 1.24
+projects[honeypot][version] = 1.25
 projects[icon][version] = 1.0
 projects[imagecache_actions][version] = 1.9
 projects[imagemagick][version] = 1.0
@@ -46,7 +46,7 @@ projects[references_dialog][version] = 1.0-beta2
 ;projects[references_dialog][patch][] = "https://www.drupal.org/files/issues/2375741-fixing_typo-1.patch"
 projects[registration][version] = 1.6
 ;projects[registration][patch][] = "https://www.drupal.org/files/issues/registration_fatal_error_class-2546836-6.patch"
-projects[rules][version] = 2.10
+projects[rules][version] = 2.11
 projects[scheduler][version] = 1.5
 projects[simplify][version] = 3.4
 ;projects[rel][version] = 1.0-beta2
@@ -62,16 +62,16 @@ projects[querypath][version] = 2.1
 projects[view_unpublished][version] = 1.2
 
 ; Map
-projects[geocoder][version] = 1.3
+projects[geocoder][version] = 1.4
 projects[geofield][version] = 2.3
 projects[geophp][version] = 1.7
 projects[leaflet][version] = 1.4
 projects[leaflet_mapbox][version] = 1.5
 
 ; Media
-projects[scald][version] = 1.10
+projects[scald][version] = 1.11
 projects[scald_file][version] = 1.4
-projects[scald_youtube][version] = 1.6
+projects[scald_youtube][version] = 1.7
 projects[scald_vimeo][version] = 1.5
 projects[scald_twitter][version] = 1.0
 projects[scald_flickr][version] = 1.2
@@ -86,7 +86,7 @@ projects[bean_scald][download][type] = "git"
 projects[bean_scald][download][url] = "http://git.drupal.org/sandbox/discipolo/1999594.git"
 projects[bean_scald][subdir] = "custom"
 
-projects[bean][version] = 1.11
+projects[bean][version] = 1.13
 
 projects[scald_text][version] = 1.x-dev
 projects[qtip][version] = 2.0
@@ -108,13 +108,13 @@ projects[uuid][version] = 1.2
 projects[replicate][version] = 1.2
 
 ; Gruppen
-projects[og][version] = 2.9
+projects[og][version] = 2.10
 projects[og_extras][version] = 1.2
 projects[og_menu_single][version] = 1.0-beta2
 
 ; Suche
-projects[search_api][version] = 1.24
-projects[search_api_db][version] = 1.6
+projects[search_api][version] = 1.25
+projects[search_api_db][version] = 1.7
 projects[facetapi][version] = 1.5
 
 ; Menu
