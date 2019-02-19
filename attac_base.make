@@ -5,7 +5,7 @@ api = 2
 defaults[projects][subdir] = "contrib"
 
 ; +++++ Modules +++++
-projects[addressfield][version] = 1.2
+projects[addressfield][version] = 1.3
 projects[advanced_help][version] = 1.3
 projects[autocomplete_deluxe][version] = 2.3
 projects[better_exposed_filters][version] = 3.6
@@ -18,7 +18,7 @@ projects[colorbox][version] = 2.13
 projects[colorbox_field_formatter][version] = 1.4
 projects[colorbox_node][version] = 3.5
 projects[compact_forms][version] = 1.0
-projects[context][version] = 3.7
+projects[context][version] = 3.9
 
 projects[ds][version] = 2.16
 projects[ds_bootstrap_layouts][version] = 1.1
@@ -44,9 +44,9 @@ projects[prlp][version] = 1.3
 projects[profiler_builder][version] = 1.2
 projects[references_dialog][version] = 1.0-beta2
 ;projects[references_dialog][patch][] = "https://www.drupal.org/files/issues/2375741-fixing_typo-1.patch"
-projects[registration][version] = 1.6
+projects[registration][version] = 1.7
 ;projects[registration][patch][] = "https://www.drupal.org/files/issues/registration_fatal_error_class-2546836-6.patch"
-projects[rules][version] = 2.11
+projects[rules][version] = 2.12
 projects[scheduler][version] = 1.5
 projects[simplify][version] = 3.4
 ;projects[rel][version] = 1.0-beta2
@@ -71,7 +71,7 @@ projects[leaflet_mapbox][version] = 1.5
 ; Media
 projects[scald][version] = 1.11
 projects[scald_file][version] = 1.4
-projects[scald_youtube][version] = 1.7
+projects[scald_youtube][version] = 1.8
 projects[scald_vimeo][version] = 1.5
 projects[scald_twitter][version] = 1.0
 projects[scald_flickr][version] = 1.2
@@ -122,7 +122,7 @@ projects[content_menu][version] = 1.0
 ;projects[dhtml_menu][version] = 1.0-beta1
 ;projects[menu_rules][version] = 1.5
 ;projects[menu_token][version] = 1.0-beta5
-projects[responsive_menus][version] = 1.6
+projects[responsive_menus][version] = 1.7
 projects[taxonomy_menu][version] = 1.5
 
 ; +++++ Features +++++
@@ -168,7 +168,7 @@ projects[attac][subdir] = ""
 projects[attac][options][working-copy] = TRUE
 
 projects[adminimal_theme][type] = "theme"
-projects[adminimal_theme][version] = "1.24"
+projects[adminimal_theme][version] = "1.25"
 projects[adminimal_theme][subdir] = ""
 
 projects[mothership][type] = "theme"
