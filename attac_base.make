@@ -13,12 +13,12 @@ projects[bootstrap_library][version] = 1.4
 projects[fontyourface][version] = 2.8
 projects[addanother][version] = 2.2
 projects[adminimal_admin_menu][version] = 1.9
-projects[back_to_top][version] = 1.5
+projects[back_to_top][version] = 1.6
 projects[colorbox][version] = 2.13
 projects[colorbox_field_formatter][version] = 1.4
 projects[colorbox_node][version] = 3.5
 projects[compact_forms][version] = 1.0
-projects[context][version] = 3.9
+projects[context][version] = 3.10
 
 projects[ds][version] = 2.16
 projects[ds_bootstrap_layouts][version] = 1.1
@@ -43,13 +43,10 @@ projects[metatag][version] = 1.25
 projects[prlp][version] = 1.3
 projects[profiler_builder][version] = 1.2
 projects[references_dialog][version] = 1.0-beta2
-;projects[references_dialog][patch][] = "https://www.drupal.org/files/issues/2375741-fixing_typo-1.patch"
 projects[registration][version] = 1.7
-;projects[registration][patch][] = "https://www.drupal.org/files/issues/registration_fatal_error_class-2546836-6.patch"
 projects[rules][version] = 2.12
 projects[scheduler][version] = 1.5
 projects[simplify][version] = 3.4
-;projects[rel][version] = 1.0-beta2
 projects[token_tweaks][version] = 1.x-dev
 projects[transliteration][version] = 3.2
 projects[views_bootstrap][version] = 3.2
@@ -63,13 +60,13 @@ projects[view_unpublished][version] = 1.2
 
 ; Map
 projects[geocoder][version] = 1.4
-projects[geofield][version] = 2.3
+projects[geofield][version] = 2.4
 projects[geophp][version] = 1.7
 projects[leaflet][version] = 1.4
 projects[leaflet_mapbox][version] = 1.5
 
 ; Media
-projects[scald][version] = 1.11
+projects[scald][version] = 1.12
 projects[scald_file][version] = 1.4
 projects[scald_youtube][version] = 1.8
 projects[scald_vimeo][version] = 1.5
@@ -113,15 +110,12 @@ projects[og_extras][version] = 1.2
 projects[og_menu_single][version] = 1.0-beta2
 
 ; Suche
-projects[search_api][version] = 1.25
+projects[search_api][version] = 1.26
 projects[search_api_db][version] = 1.7
 projects[facetapi][version] = 1.5
 
 ; Menu
 projects[content_menu][version] = 1.0
-;projects[dhtml_menu][version] = 1.0-beta1
-;projects[menu_rules][version] = 1.5
-;projects[menu_token][version] = 1.0-beta5
 projects[responsive_menus][version] = 1.7
 projects[taxonomy_menu][version] = 1.5
 
