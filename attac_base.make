@@ -78,10 +78,10 @@ projects[scald_gallery][version] = 2.7
 ;projects[scald_block][version] = 1.0
 ;projects[scald_block][patch][] = "https://www.drupal.org/files/issues/don_t_work_with-2447505-2.patch"
 
-projects[bean_scald][type] = "module"
-projects[bean_scald][download][type] = "git"
-projects[bean_scald][download][url] = "https://git.drupal.org/sandbox/discipolo-1999594.git"
-projects[bean_scald][subdir] = "custom"
+;projects[bean_scald][type] = "module"
+;projects[bean_scald][download][type] = "git"
+;projects[bean_scald][download][url] = "https://git.drupal.org/sandbox/discipolo-1999594.git"
+;projects[bean_scald][subdir] = "custom"
 
 projects[bean][version] = 1.13
 
@@ -149,10 +149,10 @@ projects[scald_image_box][subdir] = "custom"
 projects[scald_image_box][options][working-copy] = TRUE
 
 ; hide_sticky_promote
-projects[hide_sticky_promote][type] = module
-projects[hide_sticky_promote][download][type] = "git"
-projects[hide_sticky_promote][download][url] = "https://git.drupal.org/sandbox/studiozut-2303677.git"
-projects[hide_sticky_promote][subdir] = "custom"
+;projects[hide_sticky_promote][type] = module
+;projects[hide_sticky_promote][download][type] = "git"
+;projects[hide_sticky_promote][download][url] = "https://git.drupal.org/sandbox/studiozut-2303677.git"
+;projects[hide_sticky_promote][subdir] = "custom"
 
 ; +++++ Themes +++++
 projects[attac][type] = "theme"
