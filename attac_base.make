@@ -78,10 +78,10 @@ projects[scald_gallery][version] = 2.7
 ;projects[scald_block][version] = 1.0
 ;projects[scald_block][patch][] = "https://www.drupal.org/files/issues/don_t_work_with-2447505-2.patch"
 
-projects[bean_scald][type] = "module"
-projects[bean_scald][download][type] = "git"
-projects[bean_scald][download][url] = "https://git.drupalcode.org/sandbox/discipolo-1999594.git"
-projects[bean_scald][subdir] = "custom"
+;projects[bean_scald][type] = "module"
+;projects[bean_scald][download][type] = "git"
+;projects[bean_scald][download][url] = "https://git.drupalcode.org/sandbox/discipolo-1999594.git"
+;projects[bean_scald][subdir] = "custom"
 
 projects[bean][version] = 1.13
 
