@@ -80,7 +80,7 @@ projects[scald_gallery][version] = 2.7
 
 projects[bean_scald][type] = "module"
 projects[bean_scald][download][type] = "git"
-projects[bean_scald][download][url] = "http://git.drupal.org/sandbox/discipolo/1999594.git"
+projects[bean_scald][download][url] = "https://git.drupalcode.org/sandbox/discipolo-1999594.git"
 projects[bean_scald][subdir] = "custom"
 
 projects[bean][version] = 1.13
