@@ -15,6 +15,7 @@ projects[addanother][version] = 2.2
 projects[adminimal_admin_menu][version] = 1.9
 projects[back_to_top][version] = 1.6
 projects[colorbox][version] = 2.13
+projects[colorbox][patch][] = https://www.drupal.org/files/issues/views_using_colorbox-2758759-4.patch
 projects[colorbox_field_formatter][version] = 1.4
 projects[colorbox_node][version] = 3.5
 projects[compact_forms][version] = 1.0
@@ -63,6 +64,7 @@ projects[geocoder][version] = 1.4
 projects[geofield][version] = 2.4
 projects[geophp][version] = 1.7
 projects[leaflet][version] = 1.4
+projects[leaflet][patch][] = https://www.drupal.org/files/issues/2019-02-07/map-is-not-fully-loaded-3029420-1.patch
 projects[leaflet_mapbox][version] = 1.5
 
 ; Media
@@ -192,7 +194,8 @@ libraries[leaflet][destination] = "libraries"
 ;libraries[leaflet][download][type] = "get"
 ;libraries[leaflet][download][url] = "https://github.com/Leaflet/Leaflet/archive/v0.7.7.zip"
 libraries[leaflet][download][type] = "file"
-libraries[leaflet][download][url] = "http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.zip"
+;libraries[leaflet][download][url] = "http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.zip"
+libraries[leaflet][download][url] = "http://cdn.leafletjs.com/leaflet/v1.5.0/leaflet.zip"
 
 ; facebook-php-sdk
 libraries[facebook-php-sdk][directory_name] = "facebook-php-sdk"
