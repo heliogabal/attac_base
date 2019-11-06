@@ -32,7 +32,7 @@ projects[fpa][version] = 2.6
 projects[globalredirect][version] = 1.6
 projects[honeypot][version] = 1.25
 projects[icon][version] = 1.0
-projects[imagecache_actions][version] = 1.9
+projects[imagecache_actions][version] = 1.11
 projects[imagemagick][version] = 1.0
 projects[invisimail][version] = 1.2
 projects[killfile][version] = 1.5
@@ -54,7 +54,7 @@ projects[views_bootstrap][version] = 3.2
 projects[views_merge_rows][version] = 1.0-rc1
 projects[wysiwyg_template][version] = 2.11
 projects[smtp][version] = 1.7
-projects[captcha][version] = 1.5
+projects[captcha][version] = 1.6
 projects[recaptcha][version] = 2.1
 projects[querypath][version] = 2.1
 projects[view_unpublished][version] = 1.2
@@ -103,7 +103,7 @@ projects[date_ical][version] = 3.9
 projects[date_repeat_entity][version] = 2.0
 ; Bug creating duplicates: https://www.drupal.org/node/2553007
 projects[date_repeat_entity][patch][] = "https://www.drupal.org/files/issues/update_time_duplicates-2553007-3.patch"
-projects[uuid][version] = 1.2
+projects[uuid][version] = 1.3
 projects[replicate][version] = 1.2
 
 ; Gruppen
@@ -114,7 +114,7 @@ projects[og_menu_single][version] = 1.0-beta2
 ; Suche
 projects[search_api][version] = 1.26
 projects[search_api_db][version] = 1.7
-projects[facetapi][version] = 1.5
+projects[facetapi][version] = 1.6
 
 ; Menu
 projects[content_menu][version] = 1.0
@@ -164,7 +164,7 @@ projects[attac][subdir] = ""
 projects[attac][options][working-copy] = TRUE
 
 projects[adminimal_theme][type] = "theme"
-projects[adminimal_theme][version] = "1.25"
+projects[adminimal_theme][version] = "1.26"
 projects[adminimal_theme][subdir] = ""
 
 projects[mothership][type] = "theme"
