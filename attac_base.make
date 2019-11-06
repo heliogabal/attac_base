@@ -195,7 +195,7 @@ libraries[leaflet][destination] = "libraries"
 ;libraries[leaflet][download][url] = "https://github.com/Leaflet/Leaflet/archive/v0.7.7.zip"
 libraries[leaflet][download][type] = "file"
 ;libraries[leaflet][download][url] = "http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.zip"
-libraries[leaflet][download][url] = "http://cdn.leafletjs.com/leaflet/v1.5.0/leaflet.zip"
+libraries[leaflet][download][url] = "http://cdn.leafletjs.com/leaflet/v1.5.1/leaflet.zip"
 
 ; facebook-php-sdk
 libraries[facebook-php-sdk][directory_name] = "facebook-php-sdk"
@@ -209,7 +209,7 @@ libraries[galleria][directory_name] = "galleria"
 libraries[galleria][type] = "library"
 libraries[galleria][destination] = "libraries"
 libraries[galleria][download][type] = "get"
-libraries[galleria][download][url] = "http://galleria.io/static/galleria-1.4.2.zip"
+libraries[galleria][download][url] = "https://github.com/worseisbetter/galleria/archive/1.4.7.zip"
 
 ; imagesLoaded.
 libraries[jquery.imagesloaded][download][type] = file
